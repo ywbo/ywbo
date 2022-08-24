@@ -7,11 +7,11 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 _Backend_ developer
-- 🌱 _Try my best_ debugger
+- 🔭 _Backend developer_
+- 🌱 _I am who I am_
 - 👯 _Only one_
 - 🤔 _How does it running?_
-- 💬 _Ask Halo World!_
+- 💬 _Halo World!_
 - 📫  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ywboooooo@gmail.com)](mailto:ywboooooo@gmail.com)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
